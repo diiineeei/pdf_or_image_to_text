@@ -1,5 +1,5 @@
 ## Instalando Dependências (Ubuntu)
-#####Primeiro vamos começar pela instalação do Tesseract OCR. Abra o terminal e digite o seguinte comando:
+##### Primeiro vamos começar pela instalação do Tesseract OCR. Abra o terminal e digite o seguinte comando:
 
 > sudo apt-get install tesseract-ocr tesseract-ocr-por
 ##### Também precisamos instalar a biblioteca Pillow e suas dependências. Ela será necessária para carregar a imagem para nosso script:
